@@ -2,7 +2,7 @@ class Soulpass < Formula
   desc "SoulPass — Autonomous identity, assets & wallet CLI for AI agents"
   homepage "https://github.com/SoulPass-AI/soulpass"
   url "https://github.com/SoulPass-AI/soulpass/releases/download/v0.1.2/soulpass-darwin-arm64.tar.gz"
-  sha256 "7edb8d75ceff5bfebad8a178e445bdcd6c35d72898298d3e1c77c20b52c04a58"
+  sha256 "ebf275aaf18532a997cce0f55b3ed9e98beaef439b9a60003c1f11b0cf41f9af"
   version "0.1.2"
 
   depends_on :macos
